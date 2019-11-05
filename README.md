@@ -1,1 +1,1 @@
-## Welcome to focus on my TG channel[@NobyDa](https://t.me/NobyDa)
+## MRHX自用JS/Adrules.list私有库.
