@@ -1,5 +1,6 @@
 # MRHX-Update-2019.11.05 Self-use rule, Remove versus shenji duplicates and optimizations
 # This rule does not include shenji
+DOMAIN-SUFFIX,voiceads.cn,REJECT
 DOMAIN-SUFFIX,apoll.m.taobao.com,REJECT
 DOMAIN-SUFFIX,comet.yahoo.com,REJECT
 DOMAIN-SUFFIX,gemini.yahoo.com,REJECT
