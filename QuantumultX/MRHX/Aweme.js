@@ -57,4 +57,4 @@ if (obj.aweme_list) {
   $done({body: JSON.stringify(obj)});
 } else {
   $done({body});
-}
+}1
